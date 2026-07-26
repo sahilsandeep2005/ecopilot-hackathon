@@ -282,6 +282,5 @@ For a winning final submission:
 - EnergyPlus Data Transfer API: https://energyplus.readthedocs.io/en/latest/datatransfer.html
 - Official MCP Python SDK: https://github.com/modelcontextprotocol/python-sdk
 - Ollama tool calling: https://docs.ollama.com/capabilities/tool-calling
-
-#   e c o p i l o t - h a c k a t h o n  
+ 
  
