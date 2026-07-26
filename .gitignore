@@ -1,0 +1,54 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local databases and runtime data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# EnergyPlus generated output
+eplusout.*
+eplusmtr.*
+epluszsz.*
+eplusssz.*
+eplustbl.*
+*.eso
+*.mtr
+*.audit
+*.rdd
+*.mdd
+*.edd
+*.end
+*.shd
+
+# Temporary files
+*.tmp
+*.bak
+*.zip
+~$*

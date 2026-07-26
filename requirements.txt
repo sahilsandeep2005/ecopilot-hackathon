@@ -1,0 +1,12 @@
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+mcp[cli]>=1.27,<2
+ollama>=0.5,<1
+numpy>=1.26,<3
+pandas>=2.2,<4
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+streamlit>=1.40,<2
+streamlit-autorefresh>=1.0.1,<2
+plotly>=5.24,<7
+pytest>=8.0,<10
