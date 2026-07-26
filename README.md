@@ -283,3 +283,5 @@ For a winning final submission:
 - Official MCP Python SDK: https://github.com/modelcontextprotocol/python-sdk
 - Ollama tool calling: https://docs.ollama.com/capabilities/tool-calling
 
+#   e c o p i l o t - h a c k a t h o n  
+ 
