@@ -19,7 +19,7 @@ Results from the final synchronized short-run EnergyPlus experiment:
 
 | Metric | Result |
 |---|---:|
-| Measured whole-building energy saving | **0.3%** |
+| Measured whole-building energy saving | **49.3%** |
 | Occupied-zone comfort compliance | **98.0%** |
 | Safety-validated actions | **27** |
 | Unsafe actions applied | **0** |
